@@ -1776,7 +1776,7 @@
                             <!-- Need a more recent version to turn off scanning for Class.forName usage -->
                             <groupId>biz.aQute.bnd</groupId>
                             <artifactId>biz.aQute.bndlib</artifactId>
-                            <version>6.3.1</version>
+                            <version>7.1.0</version>
                         </dependency>
                     </dependencies>
                 </plugin>
